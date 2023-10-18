@@ -3,7 +3,8 @@ TP Hibernate
 
 exo 1
 
-![lolo](https://github.com/ayaberhil/TP_Hibernate/assets/147451152/d82711b6-a529-41d1-ac41-c81828ea6af3)
+![produit](https://github.com/ayaberhil/TP_Hibernate/assets/147451152/ee8706bc-8429-4848-a740-79af51706a31)
+
 
 
 exo 3
